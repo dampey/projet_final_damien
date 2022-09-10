@@ -1,6 +1,6 @@
 FROM python:latest
 
-MAINTAINER redhat
+MAINTAINER redhat 8.6
 
 EXPOSE 8080
 
