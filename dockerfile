@@ -4,6 +4,6 @@ MAINTAINER red hat 8.6
 
 EXPOSE 8080
 
-ADD python/cesar.py .
+ADD . .
 
 CMD ["python3", "cesar.py"]
